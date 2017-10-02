@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+It is simple step to learn api using Ruby on rails...by creating todo-api
